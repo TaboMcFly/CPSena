@@ -1,0 +1,41 @@
+*{
+    border-radius: 10px;
+}
+header{
+    width: 90%;
+    height: 90px;
+    background-color: brown;
+    margin: 50px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+    }
+nav{
+    width: 220px;
+    height: 450px;
+    background-color: brown;
+    float:left;
+    margin:50px;
+}
+article{
+    width: 50%;
+    height: 90px;
+    background-color: brown;
+    margin-left: 60px;
+    float:left;
+}
+aside{
+    width: 220px;
+    height: 450px;
+    background-color: brown;
+    float:right;
+    margin: 50px;
+}
+footer{
+    width: 90%;
+    height: 80px;
+    background-color: brown;
+    margin: 50px;
+}
